@@ -15,7 +15,9 @@ After filling up all the details click on submit to register successfully!
 
 ![WhatsApp Image 2023-03-07 at 6 00 07 PM (1)](https://user-images.githubusercontent.com/54343563/223460962-6be8ad74-1c45-4c15-9071-e7ede27aa2d9.jpeg)
 
-## SIgn in
+## Sign in
+
+after successful registration sign in with your id and pass to access the website 
 ![WhatsApp Image 2023-03-07 at 6 00 07 PM (2)](https://user-images.githubusercontent.com/54343563/223460987-9befb830-539d-40e6-9879-f8f436071986.jpeg)
 
 ## Social Media
