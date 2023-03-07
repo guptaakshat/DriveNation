@@ -9,11 +9,18 @@ The interface is created with the name of DriveNation with different tabs
 
 ## Contact us
 
+Here Mobile number and Email Adress is also provided for any queries
+
+After filling up all the details click on submit to register successfully!
+
 ![WhatsApp Image 2023-03-07 at 6 00 07 PM (1)](https://user-images.githubusercontent.com/54343563/223460962-6be8ad74-1c45-4c15-9071-e7ede27aa2d9.jpeg)
 
 ## SIgn in
 ![WhatsApp Image 2023-03-07 at 6 00 07 PM (2)](https://user-images.githubusercontent.com/54343563/223460987-9befb830-539d-40e6-9879-f8f436071986.jpeg)
 
+## Social Media
 We have provided you with out social media haandles such as Instagram and Linkedin
 Smooth scrolling in each section.
+
 Compatible with all mobile devices and with a beautiful and pleasant user interface
+
