@@ -1,6 +1,8 @@
 # DriveNation
+
 Welcome to our repository for selling cars! Here,
  we provide a platform for car dealers and individual sellers to showcase their vehicles and connect with potential buyers. It is built using [HTML and CSS] 
+
 ## Welcome Page
 
 ![WhatsApp Image 2023-03-07 at 6 00 07 PM](https://user-images.githubusercontent.com/54343563/223460281-a29a2da6-0345-4700-8246-4da77e662cb1.jpeg)
@@ -18,9 +20,11 @@ After filling up all the details click on submit to register successfully!
 ## Sign in
 
 after successful registration sign in with your id and pass to access the website 
+
 ![WhatsApp Image 2023-03-07 at 6 00 07 PM (2)](https://user-images.githubusercontent.com/54343563/223460987-9befb830-539d-40e6-9879-f8f436071986.jpeg)
 
 ## Social Media
+
 We have provided you with out social media haandles such as Instagram and Linkedin
 Smooth scrolling in each section.
 
